@@ -9,7 +9,7 @@
 > 抓取了从疫情开始到现在的全部数据
 
 <figure class="half">
-    <img src="C:\Users\zlaa\AppData\Roaming\Typora\typora-user-images\image-20221112152531467.png", width=50% /><img src="C:\Users\zlaa\AppData\Roaming\Typora\typora-user-images\image-20221112152940507.png", width=50% />
+    <img src="https://zlaastore2.blob.core.windows.net/outfile/image-20221112152531467.png", width=50% /><img src="https://zlaastore2.blob.core.windows.net/outfile/image-20221112152940507.png", width=50% />
 </figure>
 
 ## 数据整理
@@ -54,5 +54,5 @@ R^2 = 0.64
 ```
 
 <figure class="half">
-    <img src="C:\Users\zlaa\AppData\Roaming\Typora\typora-user-images\image-20221112153418658.png", width=50%><img src="C:\Users\zlaa\AppData\Roaming\Typora\typora-user-images\image-20221112153427390.png", width=50%> </figure>
+    <img src="https://zlaastore2.blob.core.windows.net/outfile/image-20221112153418658.png", width=50%><img src="https://zlaastore2.blob.core.windows.net/outfile/image-20221112153427390.png", width=50%> </figure>
 
