@@ -1,7 +1,5 @@
 # Numpy分析United States COVID-19趋势
 
-<p style="text-align:right">B20090611马青宇</p>
-
 ## 数据抓取
 
 从约翰斯·霍普金斯大学网站上抓取数据[United States - COVID-19 Overview - Johns Hopkins (jhu.edu)](https://coronavirus.jhu.edu/region/united-states)
